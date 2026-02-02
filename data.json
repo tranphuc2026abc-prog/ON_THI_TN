@@ -1,1 +1,26 @@
-
+[
+    {
+        "id": "DE_01",
+        "ten": "Đề ôn tập số 1 - Kiến thức chung",
+        "phan_1": [
+            {
+                "cau": 1,
+                "noi_dung": "Thiết bị nào sau đây là thiết bị vào?",
+                "lua_chon": ["A. Màn hình", "B. Bàn phím", "C. Loa", "D. Máy in"],
+                "dap_an": "B"
+            }
+        ]
+    },
+    {
+        "id": "DE_02",
+        "ten": "Đề ôn tập số 2 - Mạng máy tính",
+        "phan_1": [
+            {
+                "cau": 1,
+                "noi_dung": "Giao thức nào dùng để truyền tải tệp tin?",
+                "lua_chon": ["A. HTTP", "B. FTP", "C. SMTP", "D. POP3"],
+                "dap_an": "B"
+            }
+        ]
+    }
+]
