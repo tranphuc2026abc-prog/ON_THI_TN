@@ -48,5 +48,6 @@ st.markdown(
         <p><i>Ứng dụng bám sát Công văn 7991/BGDĐT-GDTrH</i></p>
     </div>
     """, 
-    unsafe_allow_status=True
+    unsafe_allow_html=True  # Thầy đổi thành html là xong ạ
 )
+
